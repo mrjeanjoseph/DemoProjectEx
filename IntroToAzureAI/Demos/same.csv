@@ -1,0 +1,8 @@
+order_id,customer_name,email,product_name,category,quantity,price_usd,order_date,status
+1001,Alice Smith,alice.smith@example.com,Wireless Mouse,Electronics,1,25.50,2026-08-01,Shipped
+1002,Bob Jones,bob.jones@example.com,Leather Journal,Stationery,2,15.00,2026-08-02,Delivered
+1003,Charlie Brown,charlie.b@example.com,Coffee Mug,Kitchen,1,12.99,2026-08-03,Processing
+1004,Diana Prince,diana@example.com,Running Shoes,Apparel,1,89.00,2026-08-05,Shipped
+1005,Evan Wright,evan.w@example.com,Desk Mat,Office,3,19.95,2026-08-06,Cancelled
+1006,Fiona Gallagher,fiona.g@example.com,Bluetooth Speaker,Electronics,1,45.00,2026-08-07,Delivered
+1007,George Brooks,george@example.com,Water Bottle,Sports,2,22.50,2026-08-08,Processing
